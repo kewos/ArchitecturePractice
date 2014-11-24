@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F4F535C7-C95A-4342-B3AF-484BC8231ED4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DragonQuestWFA.Engine</RootNamespace>
+    <AssemblyName>DragonQuestWFA.Engine</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DragonQuestWFA.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DragonQuest.Common\bin\Debug\DragonQuestWFA.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="DragonQuestWFA.Service">
+      <HintPath>..\DragonQuest.Service\bin\Debug\DragonQuestWFA.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Battle\BattleEventArgs.cs" />
+    <Compile Include="Battle\BattleEvents.cs" />
+    <Compile Include="Battle\BattleManager.cs" />
+    <Compile Include="Battle\BattleStateDelegate.cs" />
+    <Compile Include="ConfigurationFactory.cs" />
+    <Compile Include="Configuration\ProviderTypeElement.cs" />
+    <Compile Include="Configuration\DragonQuestEngineConfigurationSection.cs" />
+    <Compile Include="Contracts\IBattleGroup.cs" />
+    <Compile Include="Contracts\IBattleManager.cs" />
+    <Compile Include="Contracts\IBattleState.cs" />
+    <Compile Include="Entities\BattleGroup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Battle\AbstractBattleState.cs" />
+    <Compile Include="Battle\BattleState.cs" />
+    <Compile Include="Battle\CharactorDieState.cs" />
+    <Compile Include="Battle\CharactorVictoryState.cs" />
+    <Compile Include="Battle\DropItemState.cs" />
+    <Compile Include="Battle\MonsterDieState.cs" />
+    <Compile Include="Battle\MonsterVictoryState.cs" />
+    <Compile Include="Battle\RaiseExpState.cs" />
+    <Compile Include="Reposity\GameReposityCharactor.cs" />
+    <Compile Include="Reposity\GameReposityCommon.cs" />
+    <Compile Include="Reposity\GameReposityMap.cs" />
+    <Compile Include="Reposity\GameReposityMonster.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

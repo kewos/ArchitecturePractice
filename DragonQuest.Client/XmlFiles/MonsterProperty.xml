@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfMonsterProperty>
+  <MonsterProperty>
+    <Name>史萊姆</Name>
+    <Atk>11</Atk>
+    <Def>5</Def>
+    <Speed>10</Speed>
+    <Lv>1</Lv>
+    <Exp>1000</Exp>
+    <MaxHp>120</MaxHp>
+    <Hp>120</Hp>
+    <MaxMp>30</MaxMp>
+    <Mp>30</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>巨型史萊姆</Name>
+    <Atk>20</Atk>
+    <Def>10</Def>
+    <Speed>20</Speed>
+    <Lv>3</Lv>
+    <Exp>1500</Exp>
+    <MaxHp>500</MaxHp>
+    <Hp>500</Hp>
+    <MaxMp>30</MaxMp>
+    <Mp>30</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>金屬史萊姆騎士</Name>
+    <Atk>29</Atk>
+    <Def>29</Def>
+    <Speed>45</Speed>
+    <Lv>7</Lv>
+    <Exp>3000</Exp>
+    <MaxHp>700</MaxHp>
+    <Hp>700</Hp>
+    <MaxMp>30</MaxMp>
+    <Mp>30</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>黃金史萊姆王國</Name>
+    <Atk>30</Atk>
+    <Def>35</Def>
+    <Speed>50</Speed>
+    <Lv>7</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>2000</MaxHp>
+    <Hp>2000</Hp>
+    <MaxMp>30</MaxMp>
+    <Mp>30</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>紅龍</Name>
+    <Atk>230</Atk>
+    <Def>10</Def>
+    <Speed>99</Speed>
+    <Lv>30</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>3300</MaxHp>
+    <Hp>3300</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>綠龍</Name>
+    <Atk>70</Atk>
+    <Def>15</Def>
+    <Speed>50</Speed>
+    <Lv>30</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>7500</MaxHp>
+    <Hp>7500</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>藍龍</Name>
+    <Atk>120</Atk>
+    <Def>300</Def>
+    <Speed>50</Speed>
+    <Lv>30</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>1500</MaxHp>
+    <Hp>1500</Hp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>黑龍</Name>
+    <Atk>150</Atk>
+    <Def>300</Def>
+    <Speed>50</Speed>
+    <Lv>30</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>2500</MaxHp>
+    <Hp>2500</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>青銅龍</Name>
+    <Atk>170</Atk>
+    <Def>100</Def>
+    <Speed>120</Speed>
+    <Lv>30</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>2500</MaxHp>
+    <Hp>2500</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>上古龍王</Name>
+    <Atk>300</Atk>
+    <Def>100</Def>
+    <Speed>350</Speed>
+    <Lv>50</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>10000</MaxHp>
+    <Hp>10000</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>矮人礦工</Name>
+    <Atk>20</Atk>
+    <Def>150</Def>
+    <Speed>50</Speed>
+    <Lv>25</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>6000</MaxHp>
+    <Hp>6000</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>矮人守衛</Name>
+    <Atk>20</Atk>
+    <Def>180</Def>
+    <Speed>50</Speed>
+    <Lv>25</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>6500</MaxHp>
+    <Hp>6500</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>矮人戰士</Name>
+    <Atk>75</Atk>
+    <Def>180</Def>
+    <Speed>50</Speed>
+    <Lv>25</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>5000</MaxHp>
+    <Hp>5000</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>矮人監工</Name>
+    <Atk>50</Atk>
+    <Def>500</Def>
+    <Speed>50</Speed>
+    <Lv>25</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>3000</MaxHp>
+    <Hp>3000</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>矮人之王-可可可樂</Name>
+    <Atk>125</Atk>
+    <Def>1000</Def>
+    <Speed>425</Speed>
+    <Lv>25</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>3000</MaxHp>
+    <Hp>3000</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>怒博魚人</Name>
+    <Atk>125</Atk>
+    <Def>15</Def>
+    <Speed>800</Speed>
+    <Lv>40</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>1500</MaxHp>
+    <Hp>1500</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>海蛇</Name>
+    <Atk>99</Atk>
+    <Def>20</Def>
+    <Speed>999</Speed>
+    <Lv>35</Lv>
+    <Exp>10000</Exp>
+    <MaxHp>999</MaxHp>
+    <Hp>999</Hp>
+    <MaxMp>90</MaxMp>
+    <Mp>90</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>深海魚人</Name>
+    <Atk>255</Atk>
+    <Def>22</Def>
+    <Speed>775</Speed>
+    <Lv>50</Lv>
+    <Exp>110000</Exp>
+    <MaxHp>1980</MaxHp>
+    <Hp>1980</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>冠軍魚人</Name>
+    <Atk>250</Atk>
+    <Def>100</Def>
+    <Speed>800</Speed>
+    <Lv>53</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>2500</MaxHp>
+    <Hp>2500</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+  <MonsterProperty>
+    <Name>魚蛇皇后Silva</Name>
+    <Atk>125</Atk>
+    <Def>1000</Def>
+    <Speed>425</Speed>
+    <Lv>25</Lv>
+    <Exp>100000</Exp>
+    <MaxHp>3000</MaxHp>
+    <Hp>3000</Hp>
+    <MaxMp>550</MaxMp>
+    <Mp>550</Mp>
+    <DropItemList Name="香蕉" Value="20"/>
+    <DropItemList Name="西瓜" Value="20"/>
+    <DropItemList Name="蘋果" Value="20"/>
+  </MonsterProperty>
+</ArrayOfMonsterProperty>
+
+

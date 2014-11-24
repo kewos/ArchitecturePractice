@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfMapProperty>
+  <MapProperty>
+    <Name>史萊姆森林</Name>
+    <Description>由黃金史萊姆國王札克所管理的森林</Description>
+    <MaxMonsterNum>8</MaxMonsterNum>
+    <MinMonsterNum>4</MinMonsterNum>
+    <MonsterList Name="史萊姆" Value="70"/>
+    <MonsterList Name="巨型史萊姆" Value="40"/>
+    <MonsterList Name="金屬史萊姆騎士" Value="10"/>
+    <MonsterList Name="黃金史萊姆王國" Value="3"/>
+  </MapProperty>
+  <MapProperty>
+    <Name>巨龍城堡</Name>
+    <Description>上古巨龍所居住的城堡</Description>
+    <MaxMonsterNum>5</MaxMonsterNum>
+    <MinMonsterNum>2</MinMonsterNum>
+    <MonsterList Name="紅龍" Value="30"/>
+    <MonsterList Name="藍龍" Value="30"/>
+    <MonsterList Name="青銅龍" Value="30"/>
+    <MonsterList Name="黑龍" Value="30"/>
+    <MonsterList Name="綠龍" Value="30"/>
+    <MonsterList Name="上古龍王" Value="3"/>
+  </MapProperty>
+  <MapProperty>
+    <Name>矮人礦洞</Name>
+    <Description>矮人一天可以工作28個小時</Description>
+    <MaxMonsterNum>7</MaxMonsterNum>
+    <MinMonsterNum>5</MinMonsterNum>
+    <MonsterList Name="矮人礦工" Value="90"/>
+    <MonsterList Name="矮人守衛" Value="50"/>
+    <MonsterList Name="矮人戰士" Value="20"/>
+    <MonsterList Name="矮人監工" Value="10"/>
+    <MonsterList Name="矮人英雄啤酒可樂" Value="5"/>
+  </MapProperty>
+  <MapProperty>
+    <Name>深海神廟</Name>
+    <Description>裡面有好多魚人</Description>
+    <MaxMonsterNum>20</MaxMonsterNum>
+    <MinMonsterNum>1</MinMonsterNum>
+    <MonsterList Name="怒博魚人" Value="90"/>
+    <MonsterList Name="海蛇" Value="50"/>
+    <MonsterList Name="深海魚人" Value="20"/>
+    <MonsterList Name="魚人隊長" Value="10"/>
+    <MonsterList Name="深海女妖" Value="5"/>
+  </MapProperty>
+</ArrayOfMapProperty>

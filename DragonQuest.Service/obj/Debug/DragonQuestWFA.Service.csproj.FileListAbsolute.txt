@@ -1,0 +1,7 @@
+D:\code\DragonQuestWFA\DragonQuest.Service\bin\Debug\DragonQuestWFA.Service.dll
+D:\code\DragonQuestWFA\DragonQuest.Service\bin\Debug\DragonQuestWFA.Service.pdb
+D:\code\DragonQuestWFA\DragonQuest.Service\bin\Debug\DragonQuestWFA.Common.dll
+D:\code\DragonQuestWFA\DragonQuest.Service\bin\Debug\DragonQuestWFA.Common.pdb
+D:\code\DragonQuestWFA\DragonQuest.Service\obj\Debug\DragonQuestWFA.Service.csprojResolveAssemblyReference.cache
+D:\code\DragonQuestWFA\DragonQuest.Service\obj\Debug\DragonQuestWFA.Service.dll
+D:\code\DragonQuestWFA\DragonQuest.Service\obj\Debug\DragonQuestWFA.Service.pdb

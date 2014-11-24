@@ -1,0 +1,4 @@
+D:\code\DragonQuestWFA\ClassLibrary2\bin\Debug\DragonQuest.Common.dll
+D:\code\DragonQuestWFA\ClassLibrary2\bin\Debug\DragonQuest.Common.pdb
+D:\code\DragonQuestWFA\ClassLibrary2\obj\Debug\DragonQuest.Common.dll
+D:\code\DragonQuestWFA\ClassLibrary2\obj\Debug\DragonQuest.Common.pdb
